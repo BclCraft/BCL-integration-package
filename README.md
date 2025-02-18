@@ -7,6 +7,7 @@
 | -------- | -:  |
 | [PCL2](https://github.com/Hex-Dragon/PCL2)      | ✔️  |
 | [HMCL](https://github.com/HMCL-dev/HMCL)        | ✔️   |
+| [FCL](https://github.com/FCL-Team/FoldCraftLauncher/)      | ✔️  |
 | ……        |    ……    |
 
 [BCLcraft官网](https://www.bclcraft.com)
